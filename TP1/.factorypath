@@ -1,0 +1,5 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/servlet/jstl/1.2/jstl-1.2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
